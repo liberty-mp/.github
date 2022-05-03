@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/channel/UComL-yT-bcL1hQ1D8PTdpnw">
     <img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" />
   </a>
-  <a href=" https://www.tiktok.com/@gta5.liberty.mp">
+  <a href="https://www.tiktok.com/@gta5.liberty.mp">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
   </a>
 </p>
