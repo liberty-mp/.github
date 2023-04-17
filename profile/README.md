@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  An upcoming romanian Grand Theft Auto V (rage.mp) server. <br>
+  A romanian Grand Theft Auto V (rage.mp) server. <br>
   Built with ❤️
 </p>
 
