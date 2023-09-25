@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  An upcoming romanian Grand Theft Auto V (rage.mp) server. <br>
+  Romanian Grand Theft Auto V server. <br>
+  Powered by <a href = "https://rage.mp/">rage.mp</a><br>
   Built with ❤️
 </p>
 
